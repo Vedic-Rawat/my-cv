@@ -3,16 +3,51 @@ body
         background-color: black;
         color:white;
 }
-.nav-main
+.navbar
+{
+        background-color: black;
+        color:white;
+        font-size: large;
+}
+.navbar ul
 {
         margin: 0%;
         padding: 0%;
         border: 0px;
         list-style-type: none ;
-        background-color:black;
 }
-.nav-iteam
+.navbar li
 {
-        font-size: large;
-        display:inline;
+        display: inline;
+        margin-right: 20px;
 }
+.navbar a
+{
+        color: white;
+        text-decoration: none;
+}
+.navbar a:hover
+{
+        color: #ffcc00;
+}
+.navbar a:active
+{
+        color: #ffcc00;
+}
+.navbar a:visited
+{
+        color: #ffcc00;
+}
+.navbar a:focus
+{
+        color: #ffcc00;
+}
+.navbar a:link
+{
+        color: #ffcc00;
+}
+.navbar a:visited
+{
+        color: #ffcc00;
+}
+
