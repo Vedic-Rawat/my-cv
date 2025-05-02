@@ -5,20 +5,7 @@
         color:white;
         font-size: large;
 }
-.navbar div
-{
-        margin: 0px;
-        padding: 0px;
-        border: 0px;
-        display: inline;
-}
-.navbar h1
-{
-        margin: 0px;
-        padding: 0px;
-        border: 0px;
-        display: inline;
-}
+
 .navbar ul
 {
         margin: 0%;
@@ -54,7 +41,7 @@
 }
 .navbar a:link
 {
-        color: #ffcc00;
+        color: white;
 }
 .navbar a:visited
 {
