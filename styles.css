@@ -48,3 +48,16 @@
         color: #ffcc00;
 }
 
+
+.profile
+{
+        background-color: #f0f0f0;
+        padding: 20px;
+        border-radius: 5px;
+        margin: 20px;
+}
+.intro
+{
+        font-size: 20px;
+        color: #333;
+}
